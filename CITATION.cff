@@ -5,11 +5,11 @@ authors:
     given-names: "Joseph"
     orcid: "https://orcid.org/0009-0003-0972-606X"
     email: "contact@qualia-algebra.com"
-title: "RS2+QA Synthesis Tributary: A Mathematical Framework for Consciousness Development"
+title: "RS2+QA Synthesis: A Mathematical Framework for Consciousness Development"
 version: 1.0.0
 date-released: 2025-12-08
 url: "https://github.com/jvanhorn/RS2-QA-Synthesis"
-repository-code: "https://github.com/jvanhorn/RS2-QA-Synthesis"
+repository-code: "https://github.com/QAv2/RS2-QA-Synthesis"
 license: CC0-1.0
 keywords:
   - consciousness
@@ -22,19 +22,6 @@ keywords:
   - temporal navigation
   - mathematical framework
   - testable predictions
-abstract: >
-  A comprehensive 207,000-word synthesis integrating Dewey Larson's
-  Reciprocal System (RS2) and Qualia Algebra (QA) into a unified, testable
-  framework for understanding consciousness. The synthesis establishes dual-aspect
-  capacity (C_max = C_corpus × C_anima), three-sector structure (Material/Cosmic/Ethical),
-  quaternion geometric necessity for n=3, shen accumulation mechanism for capacity
-  development, resolution of the 10⁶ energy gap, and sacred "now" convergence geometry.
-  Includes 35+ testable predictions with detailed experimental protocols, complete
-  mathematical formalization, and a 20-year research program outline. This work
-  unifies three observer frameworks (Dunne, RS2, QA), demonstrates consciousness as
-  fundamental (not emergent), and provides clear developmental path from Observer 1
-  to Observer 3 (5-15 years). All claims are falsifiable and grounded in rigorous
-  mathematical derivations.
 references:
   - type: book
     authors:
@@ -50,7 +37,7 @@ references:
         given-names: "Bruce"
     title: "RS2 Papers and Development"
     year: 1995-2017
-    notes: "Available through Reciprocal System Research Society"
+    notes: "Available through Reciprocal System Research Society at www.reciprocalsystem.org"
   - type: generic
     title: "Qualia Algebra Framework"
     notes: "Independent consciousness formalism"
@@ -64,4 +51,4 @@ preferred-citation:
   year: 2025
   month: 12
   notes: "Unpublished manuscript. Complete draft, ready for peer review."
-  url: "https://github.com/jvanhorn/RS2-QA-Synthesis"
+  url: "https://github.com/QAv2/RS2-QA-Synthesis"
